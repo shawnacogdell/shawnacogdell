@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @shawnacogdell
+- :star: I use she/they pronouns 
 - 👀 I’m interested in data analytics.
 - 🌱 I’m currently learning R and SQL.
 - 💞️ I’m looking to collaborate on anything!
