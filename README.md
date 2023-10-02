@@ -4,16 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Creative Problem Solver
 -----------------------
 
-I have a diverse skill set ranging from customer service, to operations management, to data analytics. I love technology and data. In 2022, I completed the Google Data Analytics Professional Certificate and I have been learning more about SQL, Python, and Power BI. I am working on creating powerful visuals and compelling data for my projects. 
+I have a diverse skill set ranging from customer service, to operations management, to data analytics. I love technology and data. In 2022, I completed the Google Data Analytics Professional Certificate and I have been learning more about SQL, Python, and Power BI. I am working on creating powerful visuals and compelling data for my projects. </br>
 I am always learning and would love the chance to make some change in the world. 
-
+</br></br>
 If there is a project or idea that you would like to work on together, please reach out! 
-
+</br>
 * 🌍  I'm based in Pennsylvania
 * 🖥️  See my portfolio at [Portfolio Website](http://shawnacogdellportfolio.000webhostapp.com/)
 * ✉️  You can contact me at [sbellecogdell@gmail.](mailto:sbellecogdell@gmail.)
 * 🤝  I'm open to collaborating on almost anything!
-
+</br>
 ### Skills
 
 
